@@ -1,0 +1,9 @@
+C:\Users\Anderson\Desktop\Proyecto reservas\Proyecto-web-activas\negocio\bin\Debug\negocio.dll
+C:\Users\Anderson\Desktop\Proyecto reservas\Proyecto-web-activas\negocio\bin\Debug\negocio.pdb
+C:\Users\Anderson\Desktop\Proyecto reservas\Proyecto-web-activas\negocio\bin\Debug\datos.dll
+C:\Users\Anderson\Desktop\Proyecto reservas\Proyecto-web-activas\negocio\bin\Debug\datos.pdb
+C:\Users\Anderson\Desktop\Proyecto reservas\Proyecto-web-activas\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Anderson\Desktop\Proyecto reservas\Proyecto-web-activas\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\Proyecto reservas\Proyecto-web-activas\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\Anderson\Desktop\Proyecto reservas\Proyecto-web-activas\negocio\obj\Debug\negocio.dll
+C:\Users\Anderson\Desktop\Proyecto reservas\Proyecto-web-activas\negocio\obj\Debug\negocio.pdb

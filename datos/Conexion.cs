@@ -10,7 +10,7 @@ namespace datos
     public class Conexion
     {
         private static string cadena =
-            "Data Source=DEVELOPER;Initial Catalog=LoginDB;Integrated Security=True";
+            "Data Source=ANDY\\SQLEXPRESS01;Initial Catalog=loginDB;Integrated Security=True;Encrypt=False;";
 
         public static SqlConnection obtenerConexion()
         {

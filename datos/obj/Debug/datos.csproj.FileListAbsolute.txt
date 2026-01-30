@@ -1,0 +1,6 @@
+C:\Users\Anderson\Desktop\Proyecto reservas\Proyecto-web-activas\datos\bin\Debug\datos.dll
+C:\Users\Anderson\Desktop\Proyecto reservas\Proyecto-web-activas\datos\bin\Debug\datos.pdb
+C:\Users\Anderson\Desktop\Proyecto reservas\Proyecto-web-activas\datos\obj\Debug\datos.csproj.AssemblyReference.cache
+C:\Users\Anderson\Desktop\Proyecto reservas\Proyecto-web-activas\datos\obj\Debug\datos.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\Proyecto reservas\Proyecto-web-activas\datos\obj\Debug\datos.dll
+C:\Users\Anderson\Desktop\Proyecto reservas\Proyecto-web-activas\datos\obj\Debug\datos.pdb

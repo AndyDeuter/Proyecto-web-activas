@@ -10,6 +10,11 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <h2>Inicio de Sesión</h2>
+            Usuario: <asp:TextBox ID="txtUsuario" runat="server"></asp:TextBox><br/>
+            Contraseña: <asp:TextBox ID="txtClave" runat="server" TextMode="Password"></asp:TextBox><br/>
+            <asp:Button ID="btnLogin" runat="server" Text="Iniciar Sesión" OnClick="btnLogin_Click" /><br/>
+            <asp:Label ID="lblMensaje" runat="server" ForeColor="Red"></asp:Label>
         </div>
     </form>
 </body>

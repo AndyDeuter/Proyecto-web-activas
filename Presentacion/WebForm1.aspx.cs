@@ -1,4 +1,5 @@
-﻿using System;
+﻿using negocio;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -9,9 +10,20 @@ namespace Presentacion
 {
     public partial class WebForm1 : System.Web.UI.Page
     {
-        protected void Page_Load(object sender, EventArgs e)
-        {
+        CNPersonas bll = new CNPersonas();
 
+        protected void btnLogin_Click(object sender, EventArgs e)
+        {
+            bool acceso = bll.Login(txtUsuario.Text, txtClave.Text);
+
+            if (acceso)
+            {
+                Response.Redirect("Principal.aspx");
+            }
+            else
+            {
+                lblMensaje.Text = "Usuario o clave incorrectos";
+            }
         }
     }
 }
