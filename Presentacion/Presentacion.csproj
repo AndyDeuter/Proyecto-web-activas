@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CSS\Estilo.css" />
     <Content Include="Global.asax" />
     <Content Include="Principal.aspx" />
     <Content Include="Web.config" />

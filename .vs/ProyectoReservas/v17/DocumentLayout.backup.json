@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EC699EB-50FB-4231-9E22-E51F40BF8617}|Presentacion\\Presentacion.csproj|c:\\users\\anderson\\desktop\\proyecto reservas\\proyecto-web-activas\\presentacion\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3EC699EB-50FB-4231-9E22-E51F40BF8617}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EC699EB-50FB-4231-9E22-E51F40BF8617}|Presentacion\\Presentacion.csproj|c:\\users\\anderson\\desktop\\proyecto reservas\\proyecto-web-activas\\presentacion\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EC699EB-50FB-4231-9E22-E51F40BF8617}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EC699EB-50FB-4231-9E22-E51F40BF8617}|Presentacion\\Presentacion.csproj|C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\presentacion\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3EC699EB-50FB-4231-9E22-E51F40BF8617}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{3EC699EB-50FB-4231-9E22-E51F40BF8617}|Presentacion\\Presentacion.csproj|c:\\users\\anderson\\desktop\\proyecto reservas\\proyecto-web-activas\\presentacion\\principal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC699EB-50FB-4231-9E22-E51F40BF8617}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\principal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDD74234-0860-4A65-A3AA-3901240F639A}|datos\\datos.csproj|C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,15 +15,31 @@
       "RelativeMoniker": "D:0:0:{3EC699EB-50FB-4231-9E22-E51F40BF8617}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3EC699EB-50FB-4231-9E22-E51F40BF8617}|Presentacion\\Presentacion.csproj|C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\presentacion\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3EC699EB-50FB-4231-9E22-E51F40BF8617}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC699EB-50FB-4231-9E22-E51F40BF8617}|Presentacion\\Presentacion.csproj|c:\\users\\anderson\\desktop\\proyecto reservas\\proyecto-web-activas\\presentacion\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3EC699EB-50FB-4231-9E22-E51F40BF8617}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC699EB-50FB-4231-9E22-E51F40BF8617}|Presentacion\\Presentacion.csproj|C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\presentacion\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC699EB-50FB-4231-9E22-E51F40BF8617}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC699EB-50FB-4231-9E22-E51F40BF8617}|Presentacion\\Presentacion.csproj|c:\\users\\anderson\\desktop\\proyecto reservas\\proyecto-web-activas\\presentacion\\css\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3EC699EB-50FB-4231-9E22-E51F40BF8617}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\css\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BDD74234-0860-4A65-A3AA-3901240F639A}|datos\\datos.csproj|C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\datos\\cdpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD74234-0860-4A65-A3AA-3901240F639A}|datos\\datos.csproj|solutionrelative:datos\\cdpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D48B0347-BEC5-4104-BE01-7E1115DA9232}|negocio\\negocio.csproj|c:\\users\\anderson\\desktop\\proyecto reservas\\proyecto-web-activas\\negocio\\cnpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D48B0347-BEC5-4104-BE01-7E1115DA9232}|negocio\\negocio.csproj|C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\negocio\\cnpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D48B0347-BEC5-4104-BE01-7E1115DA9232}|negocio\\negocio.csproj|solutionrelative:negocio\\cnpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EC699EB-50FB-4231-9E22-E51F40BF8617}|Presentacion\\Presentacion.csproj|c:\\users\\anderson\\desktop\\proyecto reservas\\proyecto-web-activas\\presentacion\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EC699EB-50FB-4231-9E22-E51F40BF8617}|Presentacion\\Presentacion.csproj|C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\presentacion\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EC699EB-50FB-4231-9E22-E51F40BF8617}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Principal.aspx",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\Presentacion\\Principal.aspx",
               "RelativeDocumentMoniker": "Presentacion\\Principal.aspx",
@@ -79,33 +87,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WebForm1.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\Presentacion\\WebForm1.aspx.designer.cs",
-              "RelativeDocumentMoniker": "Presentacion\\WebForm1.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\Presentacion\\WebForm1.aspx.designer.cs",
-              "RelativeToolTip": "Presentacion\\WebForm1.aspx.designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T17:37:50.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "WebForm1.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\Presentacion\\WebForm1.aspx.cs",
               "RelativeDocumentMoniker": "Presentacion\\WebForm1.aspx.cs",
               "ToolTip": "C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\Presentacion\\WebForm1.aspx.cs",
               "RelativeToolTip": "Presentacion\\WebForm1.aspx.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T17:32:47.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "CNPersonas.cs",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\negocio\\CNPersonas.cs",
               "RelativeDocumentMoniker": "negocio\\CNPersonas.cs",
@@ -118,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CDPersonas.cs",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\datos\\CDPersonas.cs",
               "RelativeDocumentMoniker": "datos\\CDPersonas.cs",
@@ -131,33 +126,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\datos\\Conexion.cs",
               "RelativeDocumentMoniker": "datos\\Conexion.cs",
               "ToolTip": "C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\datos\\Conexion.cs",
               "RelativeToolTip": "datos\\Conexion.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAABrAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T02:38:21.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\Presentacion\\Web.config",
               "RelativeDocumentMoniker": "Presentacion\\Web.config",
               "ToolTip": "C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\Presentacion\\Web.config",
               "RelativeToolTip": "Presentacion\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2026-01-29T02:15:08.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "WebForm1.aspx",
               "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\Presentacion\\WebForm1.aspx",
               "RelativeDocumentMoniker": "Presentacion\\WebForm1.aspx",
@@ -166,6 +161,45 @@
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2026-01-28T20:37:37.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Principal.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\Presentacion\\Principal.aspx.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Principal.aspx.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\Presentacion\\Principal.aspx.cs",
+              "RelativeToolTip": "Presentacion\\Principal.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T15:45:13.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Estilo.css",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\Presentacion\\CSS\\Estilo.css",
+              "RelativeDocumentMoniker": "Presentacion\\CSS\\Estilo.css",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\Presentacion\\CSS\\Estilo.css",
+              "RelativeToolTip": "Presentacion\\CSS\\Estilo.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-30T15:39:33.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebForm1.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\Presentacion\\WebForm1.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Presentacion\\WebForm1.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\Proyecto reservas\\Proyecto-web-activas\\Presentacion\\WebForm1.aspx.designer.cs",
+              "RelativeToolTip": "Presentacion\\WebForm1.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T17:37:50.826Z",
               "EditorCaption": ""
             }
           ]
