@@ -64,6 +64,8 @@
     font-weight: bold;
 }
 
+
+
 @media (max-width: 768px) {
     .login-form {
         width: 100%;

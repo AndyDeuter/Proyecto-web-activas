@@ -15,5 +15,10 @@ namespace negocio
         {
             return _habitaciones.ObtenerHabitaciones();
         }
+
+        public bool agregar_habitaciones(int numero, string descripcion, int cant)
+        {
+            return _habitaciones.AgregarHabitacion(numero, descripcion, cant);
+        }
     }
 }
