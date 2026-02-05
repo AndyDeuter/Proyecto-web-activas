@@ -13,6 +13,7 @@
             <h1>Bienvenido</h1> 
             <h3>Usuario:</h3><asp:Label ID="lblusuario" runat="server" Text=""></asp:Label>
         </div>
+        <asp:Button ID="btnHabitaciones" runat="server" Text="Habitaciones" OnClick="btnHabitaciones_Click" />
         <asp:Button ID="out" runat="server" Text="Cerrar Sesión" OnClick="out_Click" />
     </form>
 </body>

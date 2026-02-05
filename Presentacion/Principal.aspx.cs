@@ -27,5 +27,10 @@ namespace Presentacion
             Session.Abandon();
             Response.Redirect("WebForm1.aspx");
         }
+
+        protected void btnHabitaciones_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("Habitaciones.aspx");
+        }
     }
 }

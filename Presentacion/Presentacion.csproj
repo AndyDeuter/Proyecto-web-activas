@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="CSS\Estilo.css" />
     <Content Include="Global.asax" />
+    <Content Include="Habitaciones.aspx" />
     <Content Include="Principal.aspx" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
@@ -76,6 +77,13 @@
   <ItemGroup>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Habitaciones.aspx.cs">
+      <DependentUpon>Habitaciones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Habitaciones.aspx.designer.cs">
+      <DependentUpon>Habitaciones.aspx</DependentUpon>
     </Compile>
     <Compile Include="Principal.aspx.cs">
       <DependentUpon>Principal.aspx</DependentUpon>
