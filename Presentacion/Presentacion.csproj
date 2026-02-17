@@ -67,7 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="CSS\Estilo.css" />
+    <Content Include="CSS\Estilos.css" />
     <Content Include="Global.asax" />
     <Content Include="Habitaciones.aspx" />
     <Content Include="Principal.aspx" />

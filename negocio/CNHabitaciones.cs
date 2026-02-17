@@ -20,5 +20,13 @@ namespace negocio
         {
             return _habitaciones.AgregarHabitacion(numero, descripcion, cant);
         }
+        public bool Modificar_habitaciones(int id, int numero, string description, int cant)
+        {
+            return _habitaciones.ModificarHabitacion(id, numero, description, cant);
+        }
+        public bool Eliminar_habitaciones(int id)
+        {
+            return _habitaciones.EliminarHabitacion(id);
+        }
     }
 }

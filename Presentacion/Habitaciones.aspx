@@ -20,13 +20,21 @@
             <asp:Button ID="btnguardar" runat="server" Text="Guardar" OnClick="btnguardar_Click" />
         </div>
         <hr />
-        <asp:GridView ID="dgvHabitaciones" runat="server" AutoGenerateColumns="false">
+        <asp:GridView ID="dgvHabitaciones" runat="server" AutoGenerateColumns="false"
+            DataKeyNames="id_habitaciones" OnRowEditing="dgvHabitaciones_RowEditing"
+            DataUpdating="dgvHabitaciones_RowUpdating"
+            DataCancelingEdit="dgvHabitaciones_RowCancelingEdit"
+            OnRowDeleting="dgvHabitaciones_RowDeleting" OnRowCancelingEdit="dgvHabitaciones_RowCancelingEdit" OnRowUpdating="dgvHabitaciones_RowUpdating"
+            >
+            
             <Columns>
                 <asp:BoundField DataField="id_habitaciones" HeaderText="ID" />
                 <asp:BoundField DataField="numero" HeaderText="#" />
                 <asp:BoundField DataField="descripcion" HeaderText="Descipción" />
                 <asp:BoundField DataField="cant_huespedes" HeaderText="Max-Personas" />
-
+                <%--Botones de eliminar y editar--%>
+                <asp:CommandField ShowEditButton="true" EditText="Editar" />
+                <asp:CommandField ShowDeleteButton="true" DeleteText="Eliminar" />
             </Columns>
         </asp:GridView>
     </form>

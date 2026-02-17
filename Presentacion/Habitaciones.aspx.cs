@@ -42,5 +42,43 @@ namespace Presentacion
             }
                 
         }
+
+        protected void dgvHabitaciones_RowEditing(object sender, GridViewEditEventArgs e)
+        {
+            dgvHabitaciones.EditIndex = e.NewEditIndex; // Correct the event argument type to GridViewEditEventArgs
+            CargarGrid();
+        }
+
+        protected void dgvHabitaciones_RowDeleting(object sender, GridViewDeleteEventArgs e)
+        {
+            int id = Convert.ToInt32(dgvHabitaciones.DataKeys[e.RowIndex].Value);
+
+            if (_habitaciones.Eliminar_habitaciones(id))
+            {
+                CargarGrid();
+            }
+        }
+
+        protected void dgvHabitaciones_RowUpdating(object sender, GridViewUpdateEventArgs e)
+        {
+            int id = Convert.ToInt32(dgvHabitaciones.DataKeys[e.RowIndex].Value);
+            GridViewRow row = dgvHabitaciones.Rows[e.RowIndex];
+
+            int numero = int.Parse((row.Cells[1].Controls[0] as System.Web.UI.WebControls.TextBox).Text);
+            string descripcion = (row.Cells[2].Controls[0] as System.Web.UI.WebControls.TextBox).Text;
+            int cant = int.Parse((row.Cells[3].Controls[0] as System.Web.UI.WebControls.TextBox).Text);
+
+            if (_habitaciones.Modificar_habitaciones(id, numero, descripcion, cant))
+            {
+                dgvHabitaciones.EditIndex = -1;
+                CargarGrid();
+            }
+        }
+
+        protected void dgvHabitaciones_RowCancelingEdit(object sender, GridViewCancelEditEventArgs e)
+        {
+            dgvHabitaciones.EditIndex = -1;
+            CargarGrid();
+        }
     }
 }
